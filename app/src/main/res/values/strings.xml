@@ -1,0 +1,53 @@
+<resources>
+    <string name="facebook_app_id">819731148189883</string>
+    <string name="fb_login_protocol_scheme">fb819731148189883</string>
+
+    <string name="app_name">Kinect</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="text_splash_image">Splash Image</string>
+    <string name="action_bar_logo">Action Bar Logo</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="profile_background_overlay">Profile Background Overlay</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="my_photos">My Photos</string>
+    <string name="profile_image_item">Profile Image Item</string>
+    <string name="separator_image">Separator Image</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="kinect_profile_image">Kinect Profile Image</string>
+    <string name="like">LIKE</string>
+    <string name="nope">NO</string>
+    <string name="login_background">Login Background</string>
+    <string name="t_and_c_note">By clicking on this button, you agree with our Terms of Conditions and Privacy Policy</string>
+    <string name="kinect_login_background">Kinect Login Background</string>
+    <string name="kinect_logo">Kinect Logo</string>
+    <string name="kinect_text">Kinect Text</string>
+    <string name="kinect_slogan">Kinect Slogan</string>
+    <string name="facebook_button_text">Continue With Facebook</string>
+    <string name="title_gender">I\'m a…</string>
+    <string name="guy">Guy</string>
+    <string name="girl">Girl</string>
+    <string name="title_interest">Interested in a…</string>
+    <string name="yes">YES</string>
+    <string name="amp"><![CDATA[&]]></string>
+    <string name="match_message">We Have A Kinect</string>
+    <string name="start_messaging">Start Messaging</string>
+    <string name="messages">Messages</string>
+    <string name="image_view">Image View</string>
+    <string name="action_set_profile_photo">Set as profile photo</string>
+    <string name="photos">Photos</string>
+    <string name="add_photo">Add Photo</string>
+    <string name="no_photos_found">No Photos Found</string>
+    <string name="action_view_profile">View Profile</string>
+    <string name="no_users">No users match your search options</string>
+    <string name="finding_users">Finding users near you</string>
+    <string name="finding_messages">Loading Messages</string>
+    <string name="no_messages">No messages yet.\nKeep swiping and you\'ll get a match soon</string>
+    <string name="action_delete_photo">Remove Photo</string>
+    <string name="today">Today</string>
+    <string name="k_i_n_e_c_t">K I N E C T</string>
+</resources>

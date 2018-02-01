@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory android:title="I'm interested in...">
+        <SwitchPreference
+            android:defaultValue="false"
+            android:title="Men"
+            android:key="pref_men" />
+        <SwitchPreference
+            android:defaultValue="false"
+            android:title="Women"
+            android:key="pref_women" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="Search Options">
+        <EditTextPreference
+            android:defaultValue="Choose Distance Radius..."
+            android:selectAllOnFocus="true"
+            android:inputType="number"
+            android:key="pref_radius"
+            android:title="Distance Radius"
+            android:summary="Show people within 80km from me"/>
+        <Preference
+            android:key="pref_age_range"
+            android:title="Age Range"
+            android:summary="Show people within ages 18 - 28"/>
+    </PreferenceCategory>
+    <PreferenceCategory android:title="Account Settings">
+        <EditTextPreference
+            android:defaultValue="Change Display Name..."
+            android:selectAllOnFocus="true"
+            android:singleLine="true"
+            android:title="Change Display Name"
+            android:key="pref_display_name"
+            android:summary="Choose a different display name" />
+        <EditTextPreference
+            android:defaultValue="Change Bio..."
+            android:selectAllOnFocus="true"
+            android:singleLine="true"
+            android:title="Change Bio"
+            android:key="pref_bio"
+            android:summary="Choose a different bio" />
+        <Preference
+            android:key="pref_logout"
+            android:title="Log Out"
+            android:summary="Log out of Kinect"/>
+    </PreferenceCategory>
+    <PreferenceCategory android:title="About">
+        <Preference
+            android:key="pref_about"
+            android:title="About Kinect"
+            android:summary="Kinect android app. Version 1.0.0"/>
+    </PreferenceCategory>
+</PreferenceScreen>

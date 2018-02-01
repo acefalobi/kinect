@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:paddingStart="36dp"
+    android:paddingEnd="36dp"
+    android:paddingTop="24dp"
+    android:paddingBottom="10dp"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <com.appyvet.rangebar.RangeBar
+        android:id="@+id/range_age"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:tickStart="17"
+        app:tickInterval="1"
+        app:tickEnd="70"
+        app:temporaryPins="false"
+        app:pinColor="@color/colorAccent"
+        app:tickColor="@color/colorPrimary"
+        app:textColor="@color/white"
+        app:selectorColor="@color/colorPrimaryDark"
+        app:connectingLineColor="@color/colorPrimary"/>
+</LinearLayout>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:custom="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:gravity="end"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginBottom="100dp">
+    <com.kinectafrica.android.view.CustomSwipeTextView
+        custom:ttfName="Egyptian Nights.ttf"
+        android:id="@+id/text_no"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="72sp"
+        android:textStyle="bold"
+        android:layout_margin="40dp"
+        android:textColor="@android:color/holo_green_light"
+        android:text="@string/yes"/>
+</LinearLayout>
