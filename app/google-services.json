@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "623994578459",
+    "firebase_url": "https://kinect-2c46c.firebaseio.com",
+    "project_id": "kinect-2c46c",
+    "storage_bucket": "kinect-2c46c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:623994578459:android:c87d2c0f68368ce1",
+        "android_client_info": {
+          "package_name": "com.kinectafrica.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "623994578459-1uf8ulg74lk326m4hfm52tc9vj3r84mi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kinectafrica.android",
+            "certificate_hash": "d21814a277cb792cc2bd1d75dc365da04bb6f6ba"
+          }
+        },
+        {
+          "client_id": "623994578459-igp4t1lc8sqkfvi013nbnslpg2e4vc29.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkeLSXAHKeP3V9V0LefIoFlqIECnOg7fs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "623994578459-igp4t1lc8sqkfvi013nbnslpg2e4vc29.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
